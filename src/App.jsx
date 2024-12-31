@@ -1,5 +1,6 @@
 import Banner from "./components/Banner"
 import FirstPart from "./components/FirstPart"
+import FooterPart from "./components/FooterPart"
 import FourthPart from "./components/FourthPart"
 import NavBer from "./components/NavBer"
 import SecondPart from "./components/SecondPart"
@@ -16,6 +17,7 @@ function App() {
      <SecondPart/>
      <ThardPart/>
      <FourthPart/>
+     <FooterPart/>
     </>
   )
 }
